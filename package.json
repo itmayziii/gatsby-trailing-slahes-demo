@@ -30,6 +30,7 @@
     "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\""
   },
   "devDependencies": {
+    "gatsby-plugin-remove-trailing-slashes": "^2.0.6",
     "prettier": "^1.15.2"
   },
   "repository": {
